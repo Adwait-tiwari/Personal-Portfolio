@@ -1,0 +1,29 @@
+.footer{
+	border-top-width : 2px;
+	border-top-style: solid;
+	display : flex;
+	flex-direction : row;
+	align-items: center;
+}
+
+.head{
+	display: flex;
+	align-items: center;
+}
+
+.para{
+	display: flex;
+}
+
+.icons{
+	position: absolute;
+	right: 80px;
+}
+
+.follow{
+	display : flex;
+	align-items : center;
+	justify-content : center;
+	margin-top : 11px;
+	margin-bottom : 3px;
+}
